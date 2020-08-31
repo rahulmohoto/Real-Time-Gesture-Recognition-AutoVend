@@ -8,3 +8,7 @@ A Vending Machine with gesture controlled Touch-free Console using Computer Visi
 
 This repository contains important files associated with AutoVend project published on **hackster.io**
 
+## Looking For The Trained Model
+
+the model size is primarily 95Mb. So, I decided to upload it in the google drive. 
+Here you can find it **https://drive.google.com/file/d/137mRHOHi5E3_FaeRwFWyxfqgM4SPgTxa/view?usp=sharing**
